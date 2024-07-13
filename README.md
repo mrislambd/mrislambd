@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Rafiqul Islam</h1>
-<h3 align="center">A Ph.D. Candidate in Mathematics at Florida State University</h3>
+<h3 align="center">A Ph.D. Candidate in Mathematics at Florida State University</h3>  
+<img align="right" width="400" alt="Coding" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrislambd&label=Profile%20views&color=0e75b6&style=flat" alt="mrislambd" /> </p>
 
