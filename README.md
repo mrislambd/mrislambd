@@ -27,7 +27,7 @@
 <a href="https://kaggle.com/rafiqislamfromfsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rafiqislamfromfsu" height="30" width="40" /></a>
 <a href="https://fb.com/rakibul.rafiq.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibul.rafiq.islam" height="30" width="40" /></a>
 <a href="https://instagram.com/rakibulrafiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakibulrafiq" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@quanttube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="quanttube" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@quanttube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="quanttube" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rafiqfsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafiqfsu" height="30" width="40" /></a>
 </p>
 
