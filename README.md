@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rafiqr35" target="blank"><img src="https://img.shields.io/twitter/follow/rafiqr35?logo=twitter&style=for-the-badge" alt="rafiqr35" /></a> </p>
 
-- 🔭 I’m currently working on **EXTRA Decentralized Stochastic Gradient Langevin Dynamics**
+- 🔭 I’m currently working on **Reflected Underdamped Langevin Monte Carlo (RULMC) algorithm**
 
 - 🌱 I’m currently learning **PyTorch, Deep Learning**
 
